@@ -10,7 +10,6 @@
   "DA!" documents seen shooting stars and enters them on an interactive sky map.
   You hold your smartphone up to the sky and trace the path of the shooting star ☄️.
   
-  
 
 https://user-images.githubusercontent.com/121936594/210576330-448a5c20-19da-4ca7-ad0e-f91926cbb893.mp4
 

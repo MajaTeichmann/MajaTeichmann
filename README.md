@@ -6,7 +6,7 @@
 
 https://m.facebook.com/254513093119275/photos/a.254513129785938/254516746452243/?type=3
 
-- 🌱 I am currently learning how to use IntelliJ IDEA, Kotlin and GitHub.
+- 🌱 I am currently learning how to use IntelliJ IDEA, Android Studio, Kotlin and GitHub.
 
 - 🔭 In the future I plan to work with my uncle on our first own app called "DA!".
   "DA!" documents seen shooting stars and enters them on an interactive sky map.
